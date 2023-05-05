@@ -1,20 +1,27 @@
 
 # Specification 'rdf-ucr'
 
-This is the repository for the **_RDF Use Cases_** deliverable of the [RDF-star Working Group](https://www.w3.org/groups/wg/rdf-star).
-The editors’ draft of the specification can also be [read directly](https://w3c.github.io/rdf-ucr/spec/).
+This is the repository for use cases for the [RDF-star Working Group](https://www.w3.org/groups/wg/rdf-star).
+It is being used to collect information on use case and to drive the progress of the working group.
+A working group note may be created from the use case descriptions.
 
-## Contributing to the Repository
+## Contributing Use Cases
 
-Use the standard fork, branch, and pull request workflow to propose changes to the specification. Please make branch names informative—by including the issue or bug number for example.
-
-Editorial changes that improve the readability of the spec or correct spelling or grammatical mistakes are welcome.
+The first step in contributing a use case is to create an issue in this respository that will be used to track discussion on the use case.
+The use case issue includes at least a brief description of your use case but you are encouraged to include more information.
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md), about licensing contributions.
 
+Contributed use cases may become documents in this repository.   
+You can use the standard fork, branch, and pull request workflow to directly propose changes to these dcouments or you can make comments in the use case issue and have working group members turn your comments into changed to the document. 
+Please make branch names informative—by including the issue or bug number for example.
+
+Editorial changes that improve readability or correct spelling or grammatical mistakes are welcome.
+
+
 ## Set of Documents
 
-This repository is one of ten RDF 1.2 and twelve SPARQL 1.2 Recommendations produced by the  [RDF-star Working Group](https://www.w3.org/groups/wg/rdf-star).
+There are ten RDF 1.2 and twelve SPARQL 1.2 Recommendations produced by the  [RDF-star Working Group](https://www.w3.org/groups/wg/rdf-star).
 
 ### RDF 1.2 Recommendations:
 * [RDF12-NEW][]
