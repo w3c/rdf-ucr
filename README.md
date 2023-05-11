@@ -3,13 +3,22 @@
 
 This is the repository for use cases for the [RDF-star Working Group](https://www.w3.org/groups/wg/rdf-star).
 It is being used to collect information on use case and to drive the progress of the working group.
+A complete use case description will contain sufficient information about
+representation, querying, and reasoning to drive the activities of the working group
+and be checked against the groups recommendations.
+
 A working group note may be created from the use case descriptions.
 
-## Contributing Use Cases
+Each use case will be assigned a member of the working group's use case task force
+to help the process of creating a complete use case description.
+
+
+## Contributing and Updating Use Cases
 
 The first step in contributing a use case is to create an issue in this respository that will be used to track discussion on the use case.
 The use case issue includes at least a brief description of your use case but you are encouraged to include more information.
 
+All information submitted to this repository is publically available.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md), about licensing contributions.
 
 Contributed use cases may become documents in this repository.   
