@@ -17,15 +17,12 @@ to help the process of creating a complete use case description.
 
 The first step in contributing a use case is to create an issue in this respository that will be used to track discussion on the use case.
 The use case issue includes at least a brief description of your use case but you are encouraged to include more information.
+Comments in the use case issue will be used for discussion of the use case.
+
+Each use cases will have a wiki page that contain as clean version of the use case for those not interested in how it was developed.
 
 All information submitted to this repository is publically available.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md), about licensing contributions.
-
-Contributed use cases may become documents in this repository.   
-You can use the standard fork, branch, and pull request workflow to directly propose changes to these dcouments or you can make comments in the use case issue and have working group members turn your comments into changed to the document. 
-Please make branch names informative—by including the issue or bug number for example.
-
-Editorial changes that improve readability or correct spelling or grammatical mistakes are welcome.
 
 
 ## Set of Documents
