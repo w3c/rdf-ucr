@@ -25,7 +25,7 @@ All information submitted to this repository is publically available.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md), about licensing contributions.
 
 
-## Set of Documents
+## RDF-star Working Group Repositories
 
 There are ten RDF 1.2 and twelve SPARQL 1.2 Recommendations produced by the  [RDF-star Working Group](https://www.w3.org/groups/wg/rdf-star).
 
