@@ -19,7 +19,7 @@ The first step in contributing a use case is to create an issue in this resposit
 The use case issue includes at least a brief description of your use case but you are encouraged to include more information.
 Comments in the use case issue will be used for discussion of the use case.
 
-Each use cases will have a wiki page that contain as clean version of the use case for those not interested in how it was developed.
+Each use cases will have a wiki page that contains a clean version of the use case for those not interested in how it was developed.
 
 All information submitted to this repository is publically available.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md), about licensing contributions.
