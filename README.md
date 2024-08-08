@@ -1,27 +1,26 @@
-
 # Specification 'rdf-ucr'
 
 This is the repository for use cases for the [RDF-star Working Group](https://www.w3.org/groups/wg/rdf-star).
-It is being used to collect information on use case and to drive the progress of the working group.
+It is being used to collect information on use cases and to drive the progress of the working group.
 A complete use case description will contain sufficient information about
 representation, querying, and reasoning to drive the activities of the working group
-and be checked against the groups recommendations.
+and be checked against the group's recommendations.
 
-A working group note may be created from the use case descriptions.
+A working group NOTE may be created from the use case descriptions.
 
-Each use case will be assigned a member of the working group's use case task force
+Each use case will be assigned a member of the working group's Use Case Task Force
 to help the process of creating a complete use case description.
 
 
 ## Contributing and Updating Use Cases
 
-The first step in contributing a use case is to create an issue in this respository that will be used to track discussion on the use case.
-The use case issue includes at least a brief description of your use case but you are encouraged to include more information.
+The first step in contributing a use case is to create an issue in this repository that will be used to track discussion on the use case.
+The use case issue should include at least a brief description of your use case, and you are encouraged to include more information.
 Comments in the use case issue will be used for discussion of the use case.
 
-Each use cases will have a wiki page that contains a clean version of the use case for those not interested in how it was developed.
+Each use case will have a wiki page that contains a clean version of the use case for those not interested in how it was developed.
 
-All information submitted to this repository is publically available.
+All information submitted to this repository is publicly available.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md), about licensing contributions.
 
 
