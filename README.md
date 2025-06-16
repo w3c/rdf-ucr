@@ -1,6 +1,6 @@
 # Specification 'rdf-ucr'
 
-This is the repository for use cases for the [RDF-star Working Group](https://www.w3.org/groups/wg/rdf-star).
+This is the repository for use cases for the [RDF & SPARQL Working Group](https://www.w3.org/groups/wg/rdf-star).
 It is being used to collect information on use cases and to drive the progress of the working group.
 A complete use case description will contain sufficient information about
 representation, querying, and reasoning to drive the activities of the working group
@@ -24,9 +24,9 @@ All information submitted to this repository is publicly available.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md), about licensing contributions.
 
 
-## RDF-star Working Group Repositories
+## RDF & SPARQLorking Group Repositories
 
-There are ten RDF 1.2 and twelve SPARQL 1.2 documents produced by the  [RDF-star Working Group](https://www.w3.org/groups/wg/rdf-star).
+There are ten RDF 1.2 and twelve SPARQL 1.2 documents produced by the  [RDF & SPARQLorking Group](https://www.w3.org/groups/wg/rdf-star).
 
 ### RDF 1.2 Documents:
 * [RDF12-NEW][]

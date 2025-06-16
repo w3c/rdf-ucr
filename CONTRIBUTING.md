@@ -1,4 +1,4 @@
-# RDF-star Working Group
+# RDF & SPARQL Working Group
 
 Contributions to this repository are intended to help the working group update the RDF recommendations.
 Contributions may become part of a Working Group Note governed by the
