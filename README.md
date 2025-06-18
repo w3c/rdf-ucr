@@ -24,9 +24,9 @@ All information submitted to this repository is publicly available.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md), about licensing contributions.
 
 
-## RDF & SPARQLorking Group Repositories
+## RDF & SPARQL Working Group Repositories
 
-There are ten RDF 1.2 and twelve SPARQL 1.2 documents produced by the  [RDF & SPARQLorking Group](https://www.w3.org/groups/wg/rdf-star).
+There are ten RDF 1.2 and twelve SPARQL 1.2 documents produced by the  [RDF & SPARQL Working Group](https://www.w3.org/groups/wg/rdf-star).
 
 ### RDF 1.2 Documents:
 * [RDF12-NEW][]
